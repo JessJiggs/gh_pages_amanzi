@@ -1,0 +1,46 @@
+@import url(https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Vidaloka&display=swap);
+.container {
+  font-family: Vidaloka;
+  color: #1B75BC;
+}
+.container h1 {
+  font-family: Lato;
+  color: #004396;
+}
+
+
+
+.card-follow {
+  background-color: rgb(218, 237, 237);
+  text-align: center;
+}
+
+.card-follow li {
+  display: inline-block;
+  padding: 8px;
+  font-size: x-large;
+  color: #4927e1;
+}
+
+.social {
+  color: #7F3F98;
+  font-family: Montserrat;
+}
+
+/* .action-hover a {
+  color: #235D90;
+  text-decoration: none;
+  background-color: #70C8BB;
+} */
+/* ^^^^ make it so that you can select innerText(email)
+ - event listener - click to copy */
+
+.logo {
+  height: 100px;
+  width: 100px;
+}
+
+.email {
+  color: #0E7186;
+  background-color: rgba(159, 220, 244, 0.33);
+}
