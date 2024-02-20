@@ -1,14 +1,20 @@
 @import url(https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Vidaloka&display=swap);
+
 .container {
+  background-color: rgba(185, 185, 185, 0.5);
   font-family: Vidaloka;
   color: #1B75BC;
 }
+
 .container h1 {
   font-family: Lato;
   color: #004396;
 }
 
-
+.card-banner {
+  text-align: center;
+  background-color: rgba(230, 214, 248, 0.978);
+}
 
 .card-follow {
   background-color: rgb(218, 237, 237);
@@ -17,6 +23,7 @@
 
 .card-follow li {
   display: inline-block;
+  /* text-align: center; */
   padding: 8px;
   font-size: x-large;
   color: #4927e1;
@@ -43,4 +50,13 @@
 .email {
   color: #0E7186;
   background-color: rgba(159, 220, 244, 0.33);
+}
+
+
+.under-construction {
+  font-family: 'Times New Roman', Times, serif;
+  color: #d5bf41;
+  background-color: #684dde;
+  border: 3px solid #f3d007;
+  border-radius: 4px;
 }
