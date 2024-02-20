@@ -43,8 +43,9 @@
  - event listener - click to copy */
 
 .logo {
-  height: 100px;
+  height: 97px;
   width: 100px;
+  border-radius: 50%;
 }
 
 .email {
