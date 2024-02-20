@@ -39,3 +39,8 @@
   height: 100px;
   width: 100px;
 }
+
+.email {
+  color: #0E7186;
+  background-color: rgba(159, 220, 244, 0.33);
+}
